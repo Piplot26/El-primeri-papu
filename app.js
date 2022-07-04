@@ -16,7 +16,7 @@ let a = 10,
 // console.warn({b}); 
 // console.error({c});
 
-c = "Hola de nuevo";
+c = "Hola de nuevo12";
 
 // console.table({a, b, c, d, x});
 
